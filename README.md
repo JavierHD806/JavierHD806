@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi!
+### he/him
 
 <!--
 **JavierHD806/JavierHD806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
