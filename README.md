@@ -1,5 +1,4 @@
-### hi!
-## he/she
+## it's javi!
 
 not a whole lot to say about me \
 i use [GDevelop 5](https://github.com/4ian/GDevelop)! an open-source no-code game engine, making an rpg game with paper mario like battle mechanics \
