@@ -17,7 +17,8 @@ decided to join a game jam so i could make a small project to test out the water
 this means that the current build available is RIDDLED with BUGS\
 i planned to fix these bugs and make a full game after the game jam, but i never ended up doing so\
 id love to get back to this, but im not sure when or if i will\
-p.s. the game isn't actually all that fun! you do like three things over the course of 10 minutes with a really bad ending to the game
+p.s. the game isn't actually all that fun! you do like three things over the course of 10 minutes with a really bad ending to the game\
+p.p.s. i WOULD make the game open-source, but i took a look at the coding and it's actually sort of kinda AWFUL, maybe some other time
 
 ### Description
 <strong>As Mr. Gaido, you take care of your neighbor's pet, who as gone off for vacation for the rest of the week!
