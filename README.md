@@ -1,5 +1,9 @@
 ### hi!
-### he/she
+## he/she
+
+not a whole lot to say about me \
+i use [GDevelop 5](https://github.com/4ian/GDevelop)! an open-source no-code game engine, making an rpg game with paper mario like battle mechanics \
+thats mostly it tho! 
 
 <!--
 **JavierHD806/JavierHD806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
